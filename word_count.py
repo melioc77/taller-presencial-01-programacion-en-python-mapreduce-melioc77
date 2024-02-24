@@ -62,7 +62,7 @@ def mapper(sequence):
             new_sequence.append((word, 1))
     return new_sequence
     
-####
+##
 ####sequence = load_input("input")
 ####sequence = mapper(sequence)
 ####print(sequence)
